@@ -1,0 +1,9 @@
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Migrating to CreateUsers (20120620173150)
+Migrating to AddIndexToUsersEmail (20120620180408)
+Migrating to AddPasswordDigestToUsers (20120620181344)
+Connecting to database specified by database.yml
+Migrating to CreateUsers (20120620173150)
+Migrating to AddIndexToUsersEmail (20120620180408)
+Migrating to AddPasswordDigestToUsers (20120620181344)
