@@ -8,4 +8,9 @@ describe User do
 
   it { should respond_to(:name) }
   it { should respond_to(:email) }
+   private
+
+    def create_remember_token
+      self.remember_token = SecureRandom.urlsafe_base64
+    end
 end
